@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body,html{
+ 
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: white;
+  
+
+}
+.parent{
+  display: flex;
+  flex-wrap: wrap;
+  
+
+}
+.class{
+  background-color: rgb(90, 88, 88);
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid white;
+  border-radius: 10px;
+  text-align: center;
+}
+.class img{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.class p{
+margin:10px 20px;
+}
+.class button{
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+
+}
