@@ -13,7 +13,7 @@ const App = () => {
   },
   {img:' https://plus.unsplash.com/premium_photo-1661594430156-6d5973b67131?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fHdvcmtpbmclMjBwcm9mZXNzaW9uYWxzfGVufDB8fDB8fHww' ,
     intro:' ',
-    color:'lightseagreen',
+    color:'lightgreen',
     tag:'Underbanked'
   },
   {img:'https://images.unsplash.com/photo-1708496166091-b0c3abfb5d63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA5fHx3b3JraW5nJTIwcHJvZmVzc2lvbmFsc3xlbnwwfHwwfHx8MA%3D%3D ',
@@ -22,7 +22,7 @@ const App = () => {
     tag:'Underserved'
 
   },
-  {img:'https://images.unsplash.com/photo-1760074032649-0243993135b6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzAzfHx3b3JraW5nJTIwcHJvZmVzc2lvbmFsc3xlbnwwfHwwfHx8MA%3D%3D',
+  {img:'https://images.unsplash.com/photo-1611175697352-c8a3d5719783?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzUzfHx3b3JraW5nJTIwcHJvZmVzc2lvbmFsc3xlbnwwfHwwfHx8MA%3D%3D',
     intro:' ',
     color:'orange',
     tag:'Underserved'
