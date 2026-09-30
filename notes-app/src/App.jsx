@@ -20,6 +20,13 @@ const[task, setTask]= React.useState([])
     settitle('')
     setdesc('')
   }
+ const deleteNote=(idx)=>{
+  const copyTask=[...task]
+  copyTask.splice(idx,1)
+  setTask(copyTask)
+
+
+ }
   
 
   return (
